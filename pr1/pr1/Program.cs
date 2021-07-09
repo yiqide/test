@@ -8,6 +8,13 @@ namespace pr1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("哈哈哈哈");
+            Console.WriteLine("哈哈哈哈");
+            Console.WriteLine("哈哈哈哈");
+            Console.WriteLine("哈哈哈哈");
+            Console.WriteLine("哈哈哈哈");
+            Console.WriteLine("哈哈哈哈");
+            Console.WriteLine("哈哈哈哈");
+            
         }
     }
 }
