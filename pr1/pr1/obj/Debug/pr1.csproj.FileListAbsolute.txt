@@ -1,0 +1,5 @@
+/Users/a0624/Projects/pr1/pr1/bin/Debug/pr1.exe
+/Users/a0624/Projects/pr1/pr1/bin/Debug/pr1.pdb
+/Users/a0624/Projects/pr1/pr1/obj/Debug/pr1.csproj.CoreCompileInputs.cache
+/Users/a0624/Projects/pr1/pr1/obj/Debug/pr1.exe
+/Users/a0624/Projects/pr1/pr1/obj/Debug/pr1.pdb
