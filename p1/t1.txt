@@ -1,3 +1,4 @@
 你好
 葵花宝典 editor yi
-长虹剑法 master
+<<<<<<< HEAD
+长虹剑法 master and dev
